@@ -12,17 +12,17 @@ summarization, machine translation, and speech processing. Machine learning tech
 language processing.
 
 This list is tentative and subject to modifications.
-● Introduction to NLP
-● Language modelling
-● Part-of-speech tagging
-● Syntax and parsing
-● Lexical semantics
-● Compositional semantics
-● Computational discourse and pragmatics
-● NLP applications (e.g., machine translation, automatic summarization, dialogue systems)
-● Other topics in computational linguistics (e.g., historical linguistics, language acquisition)
-● Machine learning for NLP
-● Evaluation of NLP systems
-● Ethics in NLP
+- Introduction to NLP
+- Language modelling
+- Part-of-speech tagging
+- Syntax and parsing
+- Lexical semantics
+- Compositional semantics
+- Computational discourse and pragmatics
+- NLP applications (e.g., machine translation, automatic summarization, dialogue systems)
+- Other topics in computational linguistics (e.g., historical linguistics, language acquisition)
+- Machine learning for NLP
+- Evaluation of NLP systems
+- Ethics in NLP
 
 """
